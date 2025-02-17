@@ -13,7 +13,7 @@ Aprender a desenvolver prompts eficazes aplicando as melhores práticas de escri
     - Aplicações e impacto da IA no mundo atual
     - Versinamento de códigos com Git e Github
 
-<b> 2.Fundamentos de IAs Generativas e NLP </b>
+<b> 2. Fundamentos de IAs Generativas e NLP </b>
 
     - Aplicações práticas de inteligência artificial
     - Algoritmos e aprendizado de máquina
@@ -22,13 +22,13 @@ Aprender a desenvolver prompts eficazes aplicando as melhores práticas de escri
     - Visão computacional
     - O que são IAs Generativas
 
-<b> 3.Técnicas de Criação de Prompts </b>
+<b> 3. Técnicas de Criação de Prompts </b>
 
     - Introdução à engenharia de Prompts
     - Técnicas de engenharia de Prompts
     - Escrevendo Prompts eficazes
 
-<b> Aplicações Práticas e Ferramentas de IAs </b>
+<b> 4. Aplicações Práticas e Ferramentas de IAs </b>
 
     - Ferramentas e plataformas da Microsoft essenciais para Engenharia de Prompts
 
