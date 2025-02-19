@@ -18,7 +18,7 @@
 ---
 ### Resultados
 
-Foram utilizadas 3 ferramentas de IA: ChatGpt, Copilot, Perplexity IA. Em ambas foram realizadas os mesmos prompts podendo observar os resultados obtidos em cada.
+Foram utilizadas 3 ferramentas de IA: ChatGpt, Copilot, Perplexity IA. Em ambas foram realizadas prompts diferentes podendo observar os resultados obtidos em cada.
 
 ---
 # Comparação de Tecnologias de IA
