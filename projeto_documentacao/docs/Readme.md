@@ -17,7 +17,7 @@
     *   Matplotlib: Para criar visualizações de dados.
     *   OpenAI API: Para realizar análise de sentimentos usando o modelo GPT-4.
     *   Gdown: Para baixar o arquivo de dados de um link do Google Drive.
-    *   IPython: Para documentação em markdown.
+    *   IPython + Gemini AI: Para documentação em markdown.
 
 **3. Estrutura do Projeto:**
 
@@ -46,8 +46,6 @@
 
 *   **Dia 1: Cálculo do NPS**
     *   **Carregamento de Dados:**
-
-python i
 
 ```python
  import gdown import pandas as pd
