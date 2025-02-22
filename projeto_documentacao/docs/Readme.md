@@ -44,7 +44,7 @@
 
 **5. Explicação do Código:**
 
-*   **Dia 1: Cálculo do NPS**
+#### **Dia 1: Cálculo do NPS**
     *   **Carregamento de Dados:**
 
 ```python
@@ -100,7 +100,7 @@ class AnalisadorFeedback:
 ``` 
 *   **Descrição:** Este código calcula o NPS usando uma abordagem orientada a objetos. Ele define duas classes: `Feedback` para representar um único feedback e `AnalisadorFeedback` para analisar uma lista de feedbacks. A classe `AnalisadorFeedback` tem um método `calcular_nps` que calcula o NPS. O código então cria uma lista de objetos `Feedback` e um objeto `AnalisadorFeedback`, e chama o método `calcular_nps` para obter o NPS.
 
-*   **Dia 2: Visualização de NPS**
+####   **Dia 2: Visualização de NPS**
 
 ```python
 import matplotlib.pyplot as plt import matplotlib.patches as mpatches
@@ -134,7 +134,7 @@ criar_grafico_nps(nps)
 ``` 
 *   **Descrição:** Esta seção usa a biblioteca `matplotlib` para gerar um gráfico de barras horizontais para visualizar o valor do NPS. A função `criar_grafico_nps` recebe o NPS calculado como entrada e cria o gráfico. Ele usa zonas codificadas por cores para representar diferentes níveis de NPS e coloca uma barra preta para marcar o valor exato do NPS.
 
-*   **Dia 3: Análise de Sentimentos**
+####   **Dia 3: Análise de Sentimentos**
 
 ```python
 !pip install openai==0.28.1
